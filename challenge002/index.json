@@ -1,0 +1,38 @@
+{
+  "title": "Challenge 2",
+  "description": "",
+  "type": "challenge@0.6",
+  "difficulty": "Beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "code": "foreground.sh",
+      "courseData": "configure.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+          {"file": "challenge.sh", "target": "/usr/local/bin/", "chmod": "+x"},
+          {"file": "cheat", "target": "/usr/local/bin/", "chmod": "+x"},
+          {"file": "deploy.yaml", "target": "/opt/"}
+      ]
+    }
+  },
+  "environment": {
+    "uilayout": "terminal",
+    "showide": true,
+    "hidesidebar": true
+  },
+  "backend": {
+    "imageid": "kubernetes"
+  }
+}
