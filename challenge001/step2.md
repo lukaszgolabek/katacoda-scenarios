@@ -3,3 +3,11 @@ To get information about pods that you have created in a previous step use the c
 ```sh
 kubectl get pods
 ```
+
+## Quiz
+
+>>Q4: How many pods has been created <<
+( ) 1
+( ) 2
+(*) 3
+( ) 4
