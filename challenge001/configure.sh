@@ -1,4 +1,5 @@
-#!/bin/sh
+#!/bin/bash
+clear
 @Echo off
 
 launch.sh
