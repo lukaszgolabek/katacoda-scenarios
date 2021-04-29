@@ -1,4 +1,4 @@
-# Step1
+# Step 1
 
 Run command below to create node
 
