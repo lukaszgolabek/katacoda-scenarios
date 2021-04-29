@@ -1,10 +1,11 @@
 launch.sh
 
-echo "Waiting for kubernetes..."
+echo "Wait for Kubernetes Young Padawan..."
 
-while ! nc -z node01 30080; do   
+while ! kubectl version --short; do   
   sleep 0.5
 done
 
-echo "Started"
+echo "Ready. Code!"
+kubectl version --short
 echo 'done' > /opt/katacoda-background-finished
