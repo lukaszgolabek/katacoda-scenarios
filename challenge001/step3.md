@@ -7,3 +7,9 @@ kubectl describe pod _POD_NAME_
 ```
 
 Find information about `Image`.
+
+>>What is the name of the image?<<
+( ) Nginx
+( ) danielmusial/community001
+(*) lukaszgolabek/task001
+( ) angular
