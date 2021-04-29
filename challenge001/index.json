@@ -2,7 +2,7 @@
   "title": "Challenge 1",
   "description": "First steps with Kubernetes",
   "difficulty": "Beginner",
-  "time": "20",
+  "time": "10",
   "details": {
     "steps": [
       {
@@ -39,6 +39,6 @@
   },
   "backend": {
     "imageid": "kubernetes",
-    "port": "8080"
+    "port": "30000"
   }
 }
