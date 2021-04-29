@@ -6,17 +6,26 @@
   "details": {
     "steps": [
       {
-        "title": "Step 1",
+        "title": "Create Pods",
         "text": "step1.md"
       },
       {
-        "title": "Step 2",
+        "title": "Hount for the pods",
         "text": "step2.md"
       },
       {
-        "title": "Step 3",
+        "title": "Investigate the app source",
         "text": "step3.md"
+      },
+      {
+        "title": "Open the application",
+        "text": "step4.md"
+      },
+      {
+        "title": "Visit Yoda and get your reward",
+        "text": "step5.md"
       }
+
     ],
     "intro": {
       "text": "intro.md"
