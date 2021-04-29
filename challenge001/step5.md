@@ -1,1 +1,0 @@
-Answer all the Yoda's questions on the website and get your reward

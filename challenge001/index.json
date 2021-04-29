@@ -20,12 +20,7 @@
       {
         "title": "Open the application",
         "text": "step4.md"
-      },
-      {
-        "title": "Visit Yoda and get your reward",
-        "text": "step5.md"
       }
-
     ],
     "intro": {
       "text": "intro.md"
