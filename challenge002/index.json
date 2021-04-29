@@ -30,7 +30,7 @@
   "environment": {
     "uilayout": "terminal",
     "showide": true,
-    "hidesidebar": true
+    "hidesidebar": false
   },
   "backend": {
     "imageid": "kubernetes"
