@@ -6,20 +6,48 @@
   "details": {
     "steps": [
       {
-        "title": "Create Pods",
+        "title": "Step 1",
         "text": "step1.md"
       },
       {
-        "title": "Pods hounting",
+        "title": "Step 2",
         "text": "step2.md"
       },
       {
-        "title": "Investigate the app source",
+        "title": "Step 3",
         "text": "step3.md"
       },
       {
-        "title": "Open the application",
-        "text": "step4.md"
+        "title": "Step 4a",
+        "text": "step4a.md"
+      },
+      {
+        "title": "Step 4b",
+        "text": "step4b.md"
+      },
+      {
+        "title": "Step 5a",
+        "text": "step5a.md"
+      },
+      {
+        "title": "Step 5b",
+        "text": "step5b.md"
+      },
+      {
+        "title": "Step 6a",
+        "text": "step6a.md"
+      },
+      {
+        "title": "Step 6b",
+        "text": "step6b.md"
+      },
+      {
+        "title": "Step 7a",
+        "text": "step7a.md"
+      },
+      {
+        "title": "Step 7b",
+        "text": "step7b.md"
       }
     ],
     "intro": {
