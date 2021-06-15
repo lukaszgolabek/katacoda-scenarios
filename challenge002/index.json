@@ -1,0 +1,45 @@
+{
+  "title": "Challenge 2",
+  "description": "First steps with Kubernetes - part 2",
+  "difficulty": "Beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+        "title": "Create Pods",
+        "text": "step1.md"
+      },
+      {
+        "title": "Pods hounting",
+        "text": "step2.md"
+      },
+      {
+        "title": "Investigate the app source",
+        "text": "step3.md"
+      },
+      {
+        "title": "Open the application",
+        "text": "step4.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md",
+      "code": "configure.sh"
+    },
+    "finish": {
+      "text": "finish.md"
+    },
+    "assets": {
+      "host01": [
+          {"file": "deployment.yaml", "target": "/opt/"}
+      ]
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "kubernetes",
+    "port": "8080"
+  }
+}
