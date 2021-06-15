@@ -1,8 +1,32 @@
-Zadanie 1.
+In `/opt` folder there is a `pod.yaml` which is valid kubernetes yaml file.
 
-Na dysku w pliku pod.yaml znajduje się gotowy plik YAML.
-Sprawdz jego zawartość poleceniem cat ścieżka_do_pliku/nazwa_pliku oraz odpowiedź na kilka pytań:
-- Jaka wartość znajduje się w apiVersion?
-- Jaka wartość znajduje się w kind?
-- Jaka jest nazwa tego obiektu?
-- Jaka jest nazwa obrazu to stworzenia kontenera?
+Check the content of the file by using command:
+```sh
+cat path_to_file/file_name
+```
+
+Answer below questions:
+
+>>What is the value of the `apiVersion` property?<<
+(*) v1
+( ) v2
+( ) v3
+( ) v4
+
+>>What is the value of the `kind` property?<<
+( ) Kubernetes
+( ) Yaml
+( ) Node
+(*) Pod
+
+>>What is the name of that object?<<
+( ) new-pod
+( ) yello-pod
+(*) my-pod
+( ) empty-pod
+
+>>What is the name of image used in this Pod?<<
+( ) ubuntu
+(*) nginx
+( ) centos12:latest
+( ) windows10
