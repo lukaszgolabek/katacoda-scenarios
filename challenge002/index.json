@@ -13,39 +13,33 @@
         "verify": "step2-verify.sh"
       },
       {
-        "title": "Step 3",
         "text": "step3.md"
       },
       {
-        "title": "Step 4a",
         "text": "step4a.md"
       },
       {
-        "title": "Step 4b",
-        "text": "step4b.md"
+        "text": "step4b.md",
+        "verify": "step2-verify.sh"
       },
       {
-        "title": "Step 5a",
-        "text": "step5a.md"
+        "text": "step5a.md",
+        "verify": "step5a-verify.sh"
       },
       {
-        "title": "Step 5b",
         "text": "step5b.md"
       },
       {
-        "title": "Step 6a",
-        "text": "step6a.md"
+        "text": "step6a.md",
+        "verify": "step5a-verify.sh"
       },
       {
-        "title": "Step 6b",
         "text": "step6b.md"
       },
       {
-        "title": "Step 7a",
         "text": "step7a.md"
       },
       {
-        "title": "Step 7b",
         "text": "step7b.md"
       }
     ],
