@@ -31,13 +31,14 @@
       },
       {
         "text": "step6a.md",
-        "verify": "step5a-verify.sh"
+        "verify": "step6a-verify.sh"
       },
       {
         "text": "step6b.md"
       },
       {
-        "text": "step7a.md"
+        "text": "step7a.md",
+        "answer": "step7a-answer.md"
       },
       {
         "text": "step7b.md"
