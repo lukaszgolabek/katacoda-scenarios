@@ -16,11 +16,11 @@
         "text": "step3.md"
       },
       {
-        "text": "step4a.md"
+        "text": "step4a.md",
+        "verify": "step4a-verify.sh"
       },
       {
-        "text": "step4b.md",
-        "verify": "step2-verify.sh"
+        "text": "step4b.md"
       },
       {
         "text": "step5a.md",
