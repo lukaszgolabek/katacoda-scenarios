@@ -6,7 +6,7 @@ kubectl logs nazwa_poda -c nazwa_kontenera
 ```
 
 >>podaj wartość logu 1 kontenera<<
-=== Hello, I'm the first container nice to meet you.
+=~= Hello, I am the first container nice to meet you.
 
 >>podaj wartość logu 2 kontenera<<
-=== Hello, I'm the younger container my name is seconde.
+=~= Hello, I am the younger container my name is seconde.

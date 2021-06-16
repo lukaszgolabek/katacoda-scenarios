@@ -6,6 +6,6 @@ kubectl exec -it nazwa_poda -- /bin/sh
 ```
 
 >>Podaj wartość pliku message.txt możesz go podejrzeć za pomocą polecenia `cat`<<
-===This is message from exec system
+=~= This is message from exec system
 
 Poleceniem `exit` wyjdziesz z kontenera ;)
