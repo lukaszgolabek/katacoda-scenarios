@@ -1,6 +1,6 @@
 #!/bin/bash
 
-podname=$(kubectl get pod --output json | jq -r '.items[0].metadata.name')
+podname=$(kubectl get pod describe-pod --output json | jq -r '.metadata.name')
 
 if [ "$podname" = "describe-pod" ]; then
     echo "done"

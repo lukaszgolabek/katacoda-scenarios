@@ -1,4 +1,4 @@
-Except get list of obejct we can see details of the created object. To do taht we need to use this command:
+Except get list of obejct we can see details of the created object. To do that we need to use this command:
 
 ```sh
 kubectl describe object_kind object_name
