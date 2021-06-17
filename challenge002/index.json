@@ -10,35 +10,44 @@
       },
       {
         "text": "step2.md",
-        "verify": "step2-verify.sh"
+        "verify": "step2-verify.sh",
+        "answer": "step2-answer.md"
       },
       {
-        "text": "step3.md"
+        "text": "step3.md",
+        "answer": "step3-answer.md"
       },
       {
         "text": "step4a.md",
-        "verify": "step4a-verify.sh"
+        "verify": "step4a-verify.sh",
+        "answer": "step4a-answer.md"
       },
       {
-        "text": "step4b.md"
+        "text": "step4b.md",
+        "answer": "step4b-answer.md"
       },
       {
         "text": "step5a.md",
-        "verify": "step5a-verify.sh"
+        "verify": "step5a-verify.sh",
+        "answer": "step5a-answer.md"
       },
       {
-        "text": "step5b.md"
+        "text": "step5b.md",
+        "answer": "step5b-answer.md"
       },
       {
         "text": "step6a.md",
-        "verify": "step6a-verify.sh"
+        "verify": "step6a-verify.sh",
+        "answer": "step6a-answer.md"
       },
       {
-        "text": "step6b.md"
+        "text": "step6b.md",
+        "answer": "step6b-answer.md"
       },
       {
         "text": "step7a.md",
-        "answer": "step7a-answer.md"
+        "answer": "step7a-answer.md",
+        "verify": "step7a-verify.sh"
       },
       {
         "text": "step7b.md"

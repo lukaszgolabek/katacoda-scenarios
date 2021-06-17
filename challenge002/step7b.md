@@ -1,1 +1,1 @@
-Podejrzyj logi poda i podąrzaj za wskazówkami.
+Please check the logs of the new created pod and folow the tips.

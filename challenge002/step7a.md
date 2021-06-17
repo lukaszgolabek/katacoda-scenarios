@@ -1,9 +1,8 @@
-Czasem potrzebujemy na potrzeby szybkiego testu stworzyć Pod z konkretnym kontenerem lecz nie zawsze musimy do tego używać pliku YAML.
-
-Można to również zrobbić za pomocą polecenia:
+As a alternative for the `YAML` file we can create a pod using only `kubectl`. To do that we neet to use this command: 
 
 ```sh
-kubectl run nazwa --image nazwa_obrazu
+kubectl run pod_name --image=image_name
 ```
 
-Użyj obrazu: `lukaszgolabek/task002:latest`
+Use this image: `lukaszgolabek/task002:latest`
+Use this pod name: `secret-pod`

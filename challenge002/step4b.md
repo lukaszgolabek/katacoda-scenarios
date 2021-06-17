@@ -1,10 +1,10 @@
-Pody jak wszystkie inne obiekty w K8s możemy podejrzeć szczegółowo używając polecenia:
+Except get list of obejct we can see details of the created object. To do taht we need to use this command:
 
 ```sh
-kubectl describe nazwa_poda
+kubectl describe object_kind object_name
 ```
 
->>podaj nazwę obrazu contenera?<<
+>>Which image is used by our Pod?<<
 ( ) centos:groovy
 (*) ubuntu:groovy
 ( ) centos:docker

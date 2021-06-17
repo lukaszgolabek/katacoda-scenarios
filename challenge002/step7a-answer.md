@@ -1,6 +1,6 @@
 
-Run `finalpod`:
+Run:
 
 ```sh
-kubectl run finalpod --image lukaszgolabek/task002:latest --generator=run-pod/v1
+kubectl run secret-pod --image lukaszgolabek/task002:latest
 ```

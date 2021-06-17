@@ -1,4 +1,4 @@
-After creation of the Pod we want to check if it rely exist. To do that we can use this command:
+After creation of the Pod we want to check if it realy exist. To do that we can use this command:
 
 ```sh
 kubectl get objest_kind
@@ -9,3 +9,5 @@ kubectl get objest_kind
 ( ) 2
 ( ) 3
 ( ) 4
+
+This command can be also used to check other objects in the Kubernetes like `service`, `deployment` etc.

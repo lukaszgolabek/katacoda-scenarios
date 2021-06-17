@@ -1,1 +1,1 @@
-Zdeplojuj kolejnego poda którego plik YAML znajduje się `/opt/pod-exec.yaml`
+Deploy another Pod using file: `/root/pod-exec.yaml`

@@ -1,11 +1,8 @@
-W specyficzych przypadkach czasem musimy się zalogować do kontenera w podzie celem sprawdzenia np. konfiguracji albo jakiegoś pliku. 
-Dokonać tego możemy za pomocą polecenia 
+In specific cases we need to get inside the container. Kubernetes also give as possibilit to do that by command:
 
 ```sh
-kubectl exec -it nazwa_poda -- /bin/sh
+kubectl exec -it pod_name -- /bin/sh
 ```
-
->>Podaj wartość pliku message.txt możesz go podejrzeć za pomocą polecenia `cat`<<
+After get to the container you need to answer the question. Next write `exit` command or `ctrl + d` shortcut to exit from container. 
+>>Provide content of the file message.txt you can use `cat` to do that<<
 =~= This is message from exec system
-
-Poleceniem `exit` wyjdziesz z kontenera ;)

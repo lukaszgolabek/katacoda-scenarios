@@ -1,12 +1,12 @@
-Pody jak już dobrze wiesz zawierają w sobie jeden albo i więcej kontenerów by odczytać logi z 
-konkretnego poda i kontenera wykorzystujemy do tego polecenie.
+
+When our application running inside the container sometimes we need to checks the logs. Kubernetes allow us to that by command:
 
 ```sh
-kubectl logs nazwa_poda -c nazwa_kontenera
+kubectl logs pod_name -c container_name
 ```
 
->>podaj wartość logu 1 kontenera<<
+>>Provide the log output from first container<<
 =~= Hello, I am the first container nice to meet you.
 
->>podaj wartość logu 2 kontenera<<
-=~= Hello, I am the younger container my name is seconde.
+>>Provide the log output from second container<<
+=~= Hello, I am the younger container my name is second.
