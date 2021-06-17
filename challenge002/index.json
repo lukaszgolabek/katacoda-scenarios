@@ -53,10 +53,10 @@
     },
     "assets": {
       "host01": [
-          { "file": "pod.yaml", "target": "/opt/" },
-          { "file": "pod-log.yaml", "target": "/opt/" },
-          { "file": "pod-exec.yaml", "target": "/opt/" },
-          { "file": "pod-describe.yaml", "target": "/opt/" }
+          { "file": "pod.yaml", "target": "/root/" },
+          { "file": "pod-log.yaml", "target": "/root/" },
+          { "file": "pod-exec.yaml", "target": "/root/" },
+          { "file": "pod-describe.yaml", "target": "/root/" }
       ]
     }
   },

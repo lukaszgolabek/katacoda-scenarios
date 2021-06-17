@@ -1,4 +1,4 @@
-In `/opt` folder there is a `pod.yaml` which is valid kubernetes yaml file.
+In `/root` folder there is a `pod.yaml` which is valid kubernetes yaml file.
 
 Check the content of the file by using command:
 ```sh

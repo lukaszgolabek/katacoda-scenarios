@@ -11,8 +11,8 @@ spec:
     command: ["echo", "Hello, I am the first container nice to meet you."]
     name: first
   - image: busybox:latest
-    command: ["echo", "Hello, I am the younger container my name is seconde."]
-    name: seconde
+    command: ["echo", "Hello, I am the younger container my name is second."]
+    name: second
   dnsPolicy: ClusterFirst
   restartPolicy: OnFailure
 

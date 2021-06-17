@@ -1,11 +1,10 @@
-Gdy nasz nowy obiekt typu Pod został stworzony chcielibyśmy zobaczyć że faktycznie istnieje.
-Aby tego dokonać możemy użyć polecenia:
+After creation of the Pod we want to check if it rely exist. To do that we can use this command:
 
 ```sh
-kubectl get rodzaj_obiektu
+kubectl get objest_kind
 ```
 
->>ile jest obecnie podów?<<
+>>How many Pods you see?<<
 (*) 1
 ( ) 2
 ( ) 3

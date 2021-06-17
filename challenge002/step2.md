@@ -1,9 +1,6 @@
 
-Do komunikacji z naszym klustrem kubernetesa możemy używać różnych narzędzi lecz najbardziej popularnym jest kubectl.
-Dzisiaj nauczymy się paru podstawowych funkcji jakie nam oferuję a zaczniemy od stworzenia Pod'a z poprzedniego zadania. 
-
-Aby to zrobić potrzebujemy wykorzystać:
+After check the `YAML` file we deploy our first pod(please use YAML file from previus task). To do that we need to use this command:
 
 ```sh
-kubectl apply -f ścieżka_do_pliku
+kubectl apply -f path_to_file
 ```
