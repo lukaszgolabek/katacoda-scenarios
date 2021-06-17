@@ -1,4 +1,5 @@
-Proper command:
+
+Run:
 ```sh
 kubectl apply -f /root/pod.yaml
 ```
