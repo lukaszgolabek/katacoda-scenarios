@@ -1,7 +1,7 @@
-After creation of the Pod we want to check if it realy exist. To do that we can use this command:
+After creation of the Pod we want to check if it really exist. To do that we can use this command:
 
 ```sh
-kubectl get objest_kind
+kubectl get object_kind
 ```
 
 >>How many Pods you see?<<

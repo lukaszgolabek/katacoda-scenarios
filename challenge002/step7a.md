@@ -1,8 +1,9 @@
-As a alternative for the `YAML` file we can create a pod using only `kubectl`. To do that we neet to use this command: 
+In some specific cases we can want to run the pod for testing purpose or bug investigation. So in that case create whole `YAML` file will be time consuming and useless for one time running pod. Kubernetes allows us to resolve that by posibility to create pod using `kubectl` without nessesity to use any file.  To do that we need to use this command:
 
 ```sh
 kubectl run pod_name --image=image_name
 ```
 
-Use this image: `lukaszgolabek/task002:latest`
-Use this pod name: `secret-pod`
+**Use this image name:** `lukaszgolabek/task002:latest`
+
+**Use this pod name:** `secret-pod`

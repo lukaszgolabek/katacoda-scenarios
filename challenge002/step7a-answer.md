@@ -2,5 +2,5 @@
 Run:
 
 ```sh
-kubectl run secret-pod --image lukaszgolabek/task002:latest
+kubectl run secret-pod --image=lukaszgolabek/task002:latest
 ```
